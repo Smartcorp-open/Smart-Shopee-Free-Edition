@@ -1,0 +1,31 @@
+;aiu;
+
+[Update #1]
+Name = Smart Shopee
+ProductVersion = 2.9.5.0
+URL = https://www.dropbox.com/s/pnhfclqvwhufuqj/Smart%20Shopee2.9.5.0.exe?dl=1
+Size = 4687944
+SHA256 = E61CAA993C2F3F59EBD41B0A52F93B56E6729F3E86A8C07D623EBEE4B7690B96
+MD5 = 50a4f9c0088b4ae99951edfb1715b0c6
+ServerFileName = Smart Shopee2.9.5.0.exe
+RegistryKey = HKUD\Software\Smart Corp\Smart Shopee\Version
+Version = 2.9.5.0
+Description = This Is Updated Version
+Feature = No Features But Bug Fixes
+
+[Update]
+Name = Smart Shopee
+ProductVersion = 2.0.0
+URL = https://www.dropbox.com/s/algymgrqt1eziew/Smart%20Shopee%202.0.0.msi?dl=1
+Size = 1649664
+SHA256 = E14199BF3FF500502A72DC35109D137ED04F43B792CAFE53A56440BCF2C4B9D5
+MD5 = e714e9728c93ec455f43375c81baf957
+ServerFileName = Smart Shopee 2.0.0.msi
+RegistryKey = HKUD\Software\Smart Corp\Smart Shopee\Version
+Version = 2.0.0
+Description = Smart Shopee 2.0.0 Was Released
+Feature = 1. You can Maximaize Shope Data Center.
+Enhancement = New Things Are Comming
+BugFix = 2 Bugfixes
+BugFix1 = KB3859 - Error IIS
+BugFix2 = KB5738 - Security Isue Fix

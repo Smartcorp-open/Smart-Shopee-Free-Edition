@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="18.7" version="18.7" Modules="update" RootPath="." Language="en" Id="{C238D494-1289-4094-B634-708DDBBF2634}">
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update" Key="Name" Value="Smart Shopee"/>
+    <ROW Section="Update" Key="ProductVersion" Value="2.0.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="URL" Value="https://www.dropbox.com/s/algymgrqt1eziew/Smart%20Shopee%202.0.0.msi?dl=1" ValueLocId="-"/>
+    <ROW Section="Update" Key="Size" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee 2.0.0.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="SHA256" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee 2.0.0.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="MD5" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee 2.0.0.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="ServerFileName" Value="Smart Shopee 2.0.0.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\Smart Corp\Smart Shopee\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="2.0.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="Description" Value="Smart Shopee 2.0.0 Was Released"/>
+    <ROW Section="Update" Key="Feature" Value="1. You can Maximaize Shope Data Center."/>
+    <ROW Section="Update" Key="Enhancement" Value="New Things Are Comming"/>
+    <ROW Section="Update" Key="BugFix" Value="2 Bugfixes&#13;&#10;KB3859 - Error IIS&#13;&#10;KB5738 - Security Isue Fix"/>
+    <ROW Section="Update #1" Key="Name" Value="Smart Shopee"/>
+    <ROW Section="Update #1" Key="ProductVersion" Value="2.9.5.0" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="URL" Value="https://www.dropbox.com/s/pnhfclqvwhufuqj/Smart%20Shopee2.9.5.0.exe?dl=1" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="Size" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee2.9.5.0.exe" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="SHA256" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee2.9.5.0.exe" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="MD5" Value="..\Installer\Smart Shopee-SetupFiles\Smart Shopee2.9.5.0.exe" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="ServerFileName" Value="Smart Shopee2.9.5.0.exe" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="RegistryKey" Value="HKUD\Software\Smart Corp\Smart Shopee\Version" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="Version" Value="2.9.5.0" ValueLocId="-"/>
+    <ROW Section="Update #1" Key="Description" Value="This Is Updated Version"/>
+    <ROW Section="Update #1" Key="Feature" Value="No Features But Bug Fixes"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>

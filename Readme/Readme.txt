@@ -1,0 +1,1 @@
+Smart Softwares Are Free of Cost And Open Source , Thanks for installing us 

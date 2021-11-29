@@ -1,0 +1,26 @@
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.exe
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.pdb
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.xml
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.AssemblyReference.cache
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart_Shopee.Form1.resources
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart_Shopee.Resources.resources
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.GenerateResource.cache
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.CoreCompileInputs.cache
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.exe
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.xml
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.pdb
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\MyData.accdb
+C:\Users\Naman\Desktop\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.exe.config
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\MyData.accdb
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.exe.config
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.exe
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.pdb
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\bin\Debug\Smart Shopee.xml
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.AssemblyReference.cache
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart_Shopee.Form1.resources
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart_Shopee.Resources.resources
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.GenerateResource.cache
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.vbproj.CoreCompileInputs.cache
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.exe
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.xml
+H:\SmartShopee\Smart Shop Manegment\Smart Shopee\Smart Shopee\obj\Debug\Smart Shopee.pdb
