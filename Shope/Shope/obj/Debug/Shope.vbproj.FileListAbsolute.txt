@@ -18,3 +18,8 @@ H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.vbproj.CoreCompi
 H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.exe
 H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.xml
 H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.pdb
+H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.vbproj.AssemblyReference.cache
+H:\SmartShopee\Smart Shop Manegment\Shope\Shope\bin\Debug\MetroFramework.Design.dll
+H:\SmartShopee\Smart Shop Manegment\Shope\Shope\bin\Debug\MetroFramework.dll
+H:\SmartShopee\Smart Shop Manegment\Shope\Shope\bin\Debug\MetroFramework.Fonts.dll
+H:\SmartShopee\Smart Shop Manegment\Shope\Shope\obj\Debug\Shope.vbproj.CopyComplete
