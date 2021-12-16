@@ -9,7 +9,7 @@ In Releases Option The Stable Version Of Smart Shope Was Available..
 You Can Help Us To Improove This Swrvice By Downloading The Code And Edit it For More If We Liked It Then We Will Sent It To All Users  As Next Update..
 Thanks,
 👍👍 - Best Of Luck and Have A Nice Day..
-***********************************************************************************************************************************************************************************
 Get Our Code On GitHub
 Link : https://github.com/Smartcorp-open/SmartShop
 Download This Software By This Link : https://github.com/Smartcorp-open/SmartShop/releases/download/v1.0/Smart.Shopee.1.0.0.msi/
+==============================================================================================================================================================
